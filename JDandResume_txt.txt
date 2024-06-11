@@ -1,0 +1,122 @@
+{
+  "jobDescription": {
+    "jobTitle": "Full Stack Developer",
+    "aboutUs": "DATOMS is an IoT software platform that streamlines asset management and operations for equipment manufacturers, leasing and rental companies, and enterprises utilising machine learning, artificial intelligence, and the internet of things. Our scalable solution can be customised to meet the unique needs of each client and is trusted by top companies around the globe. We are looking for passionate problem solvers who are interested to create new technology from scratch. The future is more connected, and you will be building cutting edge tech products which will power the connected machine universe. As Full Stack Engineer you will be always challenged to come up with ways to deliver the best performance in real-time data handling at the front-end and back-end services. You will be working with a strong team having deep experience in handling real-time data and deliver business insights.",
+    "responsibilities": [
+      "Develop highly efficient, scalable, reliable, and secure web/mobile applications.",
+      "Working with Real-time Data in front-end and Back-end",
+      "Develop APIs, Web Services for integration and data processing",
+      "Identify and resolve performance and scalability issues in the system.",
+      "Develop efficient and reusable front-end systems that drive complex Web Applications.",
+      "Collaborate with Product Designers, Product Managers, and Developers to deliver compelling user-facing products."
+    ],
+    "skills": [
+      "Good understanding of Database and Algorithms",
+      "Strong coding and debugging skills in TypeScript & NodeJS.",
+      "Development experiences with ReactJS applications.",
+      "Development experience with various SQL and NoSQL databases.",
+      "Strong understanding of the basic web technology stack (HTTP, WebSocket, APIs) and the Linux operating system.",
+      "Strong understanding of Databases such as MySQL, Clickhouse and InfluxDB is a plus",
+      "Development experience with other programming languages like Go / Rust & container orchestration systems like Kubernetes is a bonus.",
+      "Experience building real-time applications with ExpressJS / Apache Kafka / Redis is a plus.",
+      "Experience with Test-driven Development is a bonus.",
+      "Must be a quick learner ready to embrace emerging web technologies.",
+      "Passion for solving unique problems and creating great user experiences.",
+      "Must be a self-starter and enjoy working in a team with other passionate professionals.",
+      "Excellent communication, interpersonal skills, and ability to work with team under high pressure situations."
+    ],
+    "qualifications": "B.Tech. / MTech. (any stream).",
+    "jobLocation": "Bangalore (WFO)",
+    "compensation": "10 LPA-15 LPA"
+  },
+  "resume": {
+    "educationDetails": [
+      {
+        "program": "B.Tech",
+        "institute": "IIT Tirupati",
+        "year": "2020-24",
+        "percentageCGPA": "8.76/10"
+      },
+      {
+        "program": "Intermediate",
+        "institute": "Sri Chaitanya Junior College",
+        "year": "2020",
+        "percentageCGPA": "96.3%"
+      },
+      {
+        "program": "Schooling",
+        "institute": "New Era High School",
+        "year": "2018",
+        "percentageCGPA": "10/10"
+      }
+    ],
+    "relevantExperienceAndProjects": [
+      {
+        "projectTitle": "Personal Finance Tracker",
+        "duration": "Jan ’24 - Apr ’24",
+        "description": [
+          "Developed a web application to track personal expenses and income.",
+          "Built the frontend using HTML, CSS, and JavaScript to create a user-friendly interface.",
+          "Used SQLite for storing financial data and implemented basic CRUD operations."
+        ]
+      },
+      {
+        "projectTitle": "College Event Management System",
+        "duration": "Sep ’23 - Dec ’23",
+        "description": [
+          "Created a web application for managing college events, including registration and scheduling.",
+          "Designed the frontend using ReactJS to allow students to register for events and view schedules.",
+          "Developed the backend with NodeJS and ExpressJS to manage event data and handle user registrations."
+        ]
+      },
+      {
+        "projectTitle": "Chatbot Development",
+        "duration": "Feb ’23 - May ’23",
+        "description": [
+          "Built a simple real-time chat application for group communication among classmates.",
+          "Utilized HTML, CSS, and JavaScript for the frontend to create chat interfaces.",
+          "Used a JSON file to store chat messages and user data for persistence."
+        ]
+      }
+    ],
+    "achievements": [
+      "Secured a GMAT Quantitative Aptitude score of 50 out of 51",
+      "Received best student award for excellent academic performance for two years consecutively.",
+      "Got an All India Rank of 13209 in JEE Advanced Examination among 1.3 million aspirants",
+      "Got a state rank of 322 in EAMCET(Regional entrance exam for Engineering) among 1.32 lakh aspirants."
+    ],
+    "relevantCourses": [
+      "Google Certification on Data Analytics",
+      "Organisational Behaviour",
+      "Leadership and Team Management"
+    ],
+    "technicalExpertise": {
+      "dataAnalytics": ["SQL", "Tableau", "Excel"],
+      "programmingLanguages": ["C++", "Python"],
+      "fullStack": ["HTML", "ReactJS", "NodeJS"]
+    },
+    "positionsOfResponsibility": [
+      {
+        "position": "Ideas Squared Core team",
+        "duration": "2022-2023",
+        "description": "Ideas squared is our institute’s technical club where inter disciplinary projects are taken up. I was the core team member where the key decisions like what type of support can be given from the consultancy cell were identified. We mainly acted as a bridge between Institutions Innovation Council and students."
+      },
+      {
+        "position": "Internship Representative",
+        "duration": "2022-2023",
+        "description": "I was chosen as the representative of internships for my branch. I co-ordinated the activities regarding career development and assisted the companies to conduct the process smoothly when they come for internships."
+      },
+      {
+        "position": "Co-ordinator of Sponsorship Committee",
+        "duration": "Nov ’21-Mar ’22",
+        "description": "I was involved in a team where we got funding of 12,000 dollars for our annual college fest. I was constantly speaking with finance team people and convincing them to fund for our fest. As a result I was able to polish my communication skills and further understood sponsor management."
+      }
+    ],
+    "hobbiesAndInterests": [
+      "Interested in international news and geo-political affairs.",
+      "Participating in social service volunteering activities since 2021.",
+      "Proficient in English communication and writing.",
+      "Can work very well in teams and lead many teams."
+    ]
+  }
+}
