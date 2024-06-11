@@ -1,109 +1,120 @@
-Job Title: Full Stack Developer 
-About Us:
-
-DATOMS is an IoT software platform that streamlines asset management and operations for equipment manufacturers, leasing and rental companies, and enterprises utilising machine learning, artificial intelligence, and the internet of things. Our scalable solution can be customised to meet the unique needs of each client and is trusted by top companies around the globe.
-
-We are looking for passionate problem solvers who are interested to create new technology from scratch. The future is more connected, and you will be building cutting edge tech products which will power the connected machine universe. As Full Stack Engineer you will be always challenged to come up with ways to deliver the best performance in real-time data handling at the front-end and back-end services. You will be working with a strong team having deep experience in handling real-time data and deliver business insights. 
-
-Responsibilities:
-
-Develop highly efficient, scalable, reliable, and secure web/mobile applications.
-Working with Real-time Data in front-end and Back-end
-Develop APIs, Web Services for integration and data processing Job
-Identify and resolve performance and scalability issues in the system.
-Develop efficient and reusable front-end systems that drive complex Web Applications.
-Collaborate with Product Designers, Product Managers, and Developers to deliver compelling user-facing products.
-
-
-Skills:
-Good understanding of Database and Algorithms
-Strong coding and debugging skills in TypeScript & NodeJS.
-Development experiences with ReactJS applications.
-Development experience with various SQL and NoSQL databases.
-Strong understanding of the basic web technology stack (HTTP, WebSocket, APIs) and the Linux operating system.
-Strong understanding of Databases such as MySQL, Clickhouse and InfluxDB is a plus
-Development experience with other programming languages like Go / Rust & container orchestration systems like Kubernetes is a bonus.
-Experience building real-time applications with ExpressJS / Apache Kafka / Redis is a plus.
-Experience with Test-driven Development is a bonus.
-Must be a quick learner ready to embrace emerging web technologies.
-Passion for solving unique problems and creating great user experiences.
-Must be a self-starter and enjoy working in a team with other passionate professionals.
-Excellent communication, interpersonal skills, and ability to work with team under high pressure situations.
-
-Qualifications:
-
-B.Tech. / MTech. (any stream).
-
-Job Location: 
-
-Bangalore (WFO)
-
-Compensation:
-10 LPA-15 LPA
-
-Resume:
-
-Education Details
-Program Institute Year %/CGPA
-B.Tech IIT Tirupati 2020-24 8.76/10
-Intermediate Sri Chaitanya Junior College 2020 96.3 %
-Schooling New Era High School 2018 10/10
-
-Relavant Experience and Projects
-
-• Personal Finance Tracker [Jan ’24 - Apr ’24]
-◦ Project Description:
-∗ Developed a web application to track personal expenses and income.
-∗ Built the frontend using HTML, CSS, and JavaScript to create a user-friendly interface.
-∗ Used SQLite for storing financial data and implemented basic CRUD operations.
-
-• College Event Management System [Sep ’23 - Dec ’23]
-◦ Project Description:
-∗ Created a web application for managing college events, including registration and scheduling.
-∗ Designed the frontend using ReactJS to allow students to register for events and view schedules.
-∗ Developed the backend with NodeJS and ExpressJS to manage event data and handle user registrations.
-
-• Chatbot Development [Feb ’23 - May ’23]
-◦ Project Description:
-∗ Built a simple real-time chat application for group communication among classmates.
-∗ Utilized HTML, CSS, and JavaScript for the frontend to create chat interfaces.
-∗ Used a JSON file to store chat messages and user data for persistence.
-
-Achievements
-• Secured a GMAT Quantitative Aptitude score of 50 out of 51
-• Received best student award for excellent academic performance for two years consecutively.
-• Got an All India Rank of 13209 in JEE Advanced Examination among 1.3 million aspirants
-• Got a state rank of 322 in EAMCET(Regional entrance exam for Engineering) among 1.32 lakh aspirants.
-
-Relevant Courses
-• Google Certification on Data Analytics
-• Organisational Behaviour
-• Leadership and Team Management
-
-Technical Expertise
-Data Analytics : SQL, Tableau, Excel
-Programming Languages : C++, Python
-Full Stack : HTML, ReactJS, NodeJS
-
-Positions of Responsibility
-
-Ideas Squared Core team [2022-2023]
-• Ideas squared is our institute’s technical club where inter disciplinary projects are taken up. I was the core
-team member where the key decisions like what type of support can be given from the consultancy cell were
-identified. We mainly acted as a bridge between Institutions Innovation Council and students.
-
-Internship Representative [2022-2023]
-• I was chosen as the representative of internships for my branch. I co-ordinated the activities regarding career
-development and assisted the companies to conduct the process smoothly when they come for internships.
-
-Co-ordinator of Sponsorship Committee [Nov ’21-Mar ’22]
-• I was involved in a team where we got funding of 12,000 dollars for our annual college fest. I was constantly
-speaking with finance team people and convincing them to fund for our fest. As a result I was able to polish
-my communication skills and further understood sponsor management.
-
-
-Hobbies and Interests
-• Interested international news and geo-political affairs.
-• Participating in social service volunteering activities since 2021.
-• Proficient in English communication and writing.
-• Can work very well in teams and lead many teams
+{
+  "Job Title": "Full Stack Developer",
+  "About Us": "DATOMS is an IoT software platform that streamlines asset management and operations for equipment manufacturers, leasing and rental companies, and enterprises utilizing machine learning, artificial intelligence, and the internet of things. Our scalable solution can be customized to meet the unique needs of each client and is trusted by top companies around the globe. We are looking for passionate problem solvers who are interested in creating new technology from scratch. The future is more connected, and you will be building cutting-edge tech products that will power the connected machine universe. As a Full Stack Engineer, you will be always challenged to come up with ways to deliver the best performance in real-time data handling at the front-end and back-end services. You will be working with a strong team with deep experience in handling real-time data and delivering business insights.",
+  "Responsibilities": [
+    "Develop highly efficient, scalable, reliable, and secure web/mobile applications.",
+    "Work with Real-time Data in front-end and back-end.",
+    "Develop APIs, Web Services for integration and data processing.",
+    "Identify and resolve performance and scalability issues in the system.",
+    "Develop efficient and reusable front-end systems that drive complex web applications.",
+    "Collaborate with Product Designers, Product Managers, and Developers to deliver compelling user-facing products."
+  ],
+  "Skills": [
+    "Good understanding of Database and Algorithms.",
+    "Strong coding and debugging skills in TypeScript & NodeJS.",
+    "Development experiences with ReactJS applications.",
+    "Development experience with various SQL and NoSQL databases.",
+    "Strong understanding of the basic web technology stack (HTTP, WebSocket, APIs) and the Linux operating system.",
+    "Strong understanding of databases such as MySQL, Clickhouse, and InfluxDB is a plus.",
+    "Development experience with other programming languages like Go/Rust & container orchestration systems like Kubernetes is a bonus.",
+    "Experience building real-time applications with ExpressJS / Apache Kafka / Redis is a plus.",
+    "Experience with Test-driven Development is a bonus.",
+    "Must be a quick learner ready to embrace emerging web technologies.",
+    "Passion for solving unique problems and creating great user experiences.",
+    "Must be a self-starter and enjoy working in a team with other passionate professionals.",
+    "Excellent communication, interpersonal skills, and ability to work with the team under high-pressure situations."
+  ],
+  "Qualifications": "B.Tech. / MTech. (any stream).",
+  "Job Location": "Bangalore (WFO)",
+  "Compensation": "10 LPA-15 LPA",
+  "Resume": {
+    "Education Details": [
+      {
+        "Program": "B.Tech",
+        "Institute": "IIT Tirupati",
+        "Year": "2020-24",
+        "CGPA": "8.76/10"
+      },
+      {
+        "Program": "Intermediate",
+        "Institute": "Sri Chaitanya Junior College",
+        "Year": "2020",
+        "Percentage": "96.3%"
+      },
+      {
+        "Program": "Schooling",
+        "Institute": "New Era High School",
+        "Year": "2018",
+        "CGPA": "10/10"
+      }
+    ],
+    "Relevant Experience and Projects": [
+      {
+        "Project": "Personal Finance Tracker",
+        "Duration": "Jan ’24 - Apr ’24",
+        "Description": [
+          "Developed a web application to track personal expenses and income.",
+          "Built the frontend using HTML, CSS, and JavaScript to create a user-friendly interface.",
+          "Used SQLite for storing financial data and implemented basic CRUD operations."
+        ]
+      },
+      {
+        "Project": "College Event Management System",
+        "Duration": "Sep ’23 - Dec ’23",
+        "Description": [
+          "Created a web application for managing college events, including registration and scheduling.",
+          "Designed the frontend using ReactJS to allow students to register for events and view schedules.",
+          "Developed the backend with NodeJS and ExpressJS to manage event data and handle user registrations."
+        ]
+      },
+      {
+        "Project": "Chatbot Development",
+        "Duration": "Feb ’23 - May ’23",
+        "Description": [
+          "Built a simple real-time chat application for group communication among classmates.",
+          "Utilized HTML, CSS, and JavaScript for the frontend to create chat interfaces.",
+          "Used a JSON file to store chat messages and user data for persistence."
+        ]
+      }
+    ],
+    "Achievements": [
+      "Secured a GMAT Quantitative Aptitude score of 50 out of 51",
+      "Received best student award for excellent academic performance for two years consecutively.",
+      "Got an All India Rank of 13209 in JEE Advanced Examination among 1.3 million aspirants",
+      "Got a state rank of 322 in EAMCET (Regional entrance exam for Engineering) among 1.32 lakh aspirants."
+    ],
+    "Relevant Courses": [
+      "Google Certification on Data Analytics",
+      "Organisational Behaviour",
+      "Leadership and Team Management"
+    ],
+    "Technical Expertise": {
+      "Data Analytics": "SQL, Tableau, Excel",
+      "Programming Languages": "C++, Python",
+      "Full Stack": "HTML, ReactJS, NodeJS"
+    },
+    "Positions of Responsibility": [
+      {
+        "Position": "Ideas Squared Core team",
+        "Duration": "2022-2023",
+        "Description": "Ideas squared is our institute’s technical club where interdisciplinary projects are taken up. I was the core team member where the key decisions like what type of support can be given from the consultancy cell were identified. We mainly acted as a bridge between Institutions Innovation Council and students."
+      },
+      {
+        "Position": "Internship Representative",
+        "Duration": "2022-2023",
+        "Description": "I was chosen as the representative of internships for my branch. I coordinated the activities regarding career development and assisted the companies to conduct the process smoothly when they come for internships."
+      },
+      {
+        "Position": "Coordinator of Sponsorship Committee",
+        "Duration": "Nov ’21-Mar ’22",
+        "Description": "I was involved in a team where we got funding of 12,000 dollars for our annual college fest. I was constantly speaking with finance team people and convincing them to fund our fest. As a result, I was able to polish my communication skills and further understood sponsor management."
+      }
+    ],
+    "Hobbies and Interests": [
+      "Interested in international news and geo-political affairs.",
+      "Participating in social service volunteering activities since 2021.",
+      "Proficient in English communication and writing.",
+      "Can work very well in teams and lead many teams."
+    ]
+  }
+}
